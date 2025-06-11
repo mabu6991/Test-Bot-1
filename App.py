@@ -1,5 +1,4 @@
 # Test-Bot-1
-app.py
 import streamlit as st
 import datetime
 import requests
